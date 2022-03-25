@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_newgame">New game</string>
+    <string name="bouton_highscores">Scoreboard</string>
+    <string name="bouton_precedent">Previous</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Value too high</string>
+    <string name="ERROR_VALEUR_TROP_PETITE">Value too small</string>
+    <string name="ERROR_DIVISION_ZERO">Divide by 0</string>
+    <string name="toolbar_score">Score</string>
+    <string name="toolbar_vies">Lives</string>
+    <string name="TRICHE">NO CHEATING</string>
+    <string name="add_score_text">NAME</string>
+    <string name="add_score_button">Submit</string>
+    <string name="add_score_view">Enter your name</string>
+    <string name="highscores">Highscores</string>
+</resources>

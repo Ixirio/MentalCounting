@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_newgame">Nuevo juego</string>
+    <string name="bouton_highscores">Marcador</string>
+    <string name="bouton_precedent">Previo</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Valor demasiado alta</string>
+    <string name="ERROR_VALEUR_TROP_PETITE">Valor demasiado pequeña</string>
+    <string name="ERROR_DIVISION_ZERO">DivideDividir por 0 by 0</string>
+    <string name="toolbar_score">Puntaje</string>
+    <string name="toolbar_vies">Vidas</string>
+    <string name="TRICHE">SIN HACER TRAMPA</string>
+    <string name="add_score_text">NOMBRE</string>
+    <string name="add_score_button">Agregar</string>
+    <string name="add_score_view">Introduzca su nombre</string>
+    <string name="highscores">Mejor puntajes</string>
+</resources>
